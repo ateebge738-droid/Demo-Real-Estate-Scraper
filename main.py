@@ -1,3 +1,5 @@
+# Demo configuration: real targets removed intentionally
+
 # %%
 from selenium import webdriver
 from utilities.logger import get_logger
